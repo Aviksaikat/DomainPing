@@ -1,0 +1,14 @@
+# Ignore `bin` dir
+bin/*
+tapes/*
+
+httpRex
+*.yaml
+*.yml
+*.tape
+*.py
+*.rs
+*.txt
+out.gif
+check.*
+text

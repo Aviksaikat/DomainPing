@@ -1,0 +1,36 @@
+[
+    {
+        "host": "http://www.redbull.com"
+    },
+    {
+        "host": "https://www.redbull.com"
+    }
+][
+    {
+        "host": "http://www.facebook.com"
+    },
+    {
+        "host": "https://www.facebook.com"
+    }
+][
+    {
+        "host": "http://www.google.com"
+    },
+    {
+        "host": "https://www.google.com"
+    }
+][
+    {
+        "host": "http://www.ibm.com"
+    },
+    {
+        "host": "https://www.ibm.com"
+    }
+][
+    {
+        "host": "https://www.yahoo.com"
+    },
+    {
+        "host": "http://www.yahoo.com"
+    }
+]
