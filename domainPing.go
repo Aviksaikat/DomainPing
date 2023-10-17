@@ -88,7 +88,7 @@ func printBanner() {
 func showHelp() {
 	printBanner()
     fmt.Fprintf(os.Stderr, "Usage: %s [OPTIONS] INPUT_FILE\n", os.Args[0])
-    fmt.Fprintln(os.Stderr, "Ping a list of domains and save the results to a file.")
+    // fmt.Fprintln(os.Stderr, "Ping a list of domains and save the results to a file.")
     fmt.Fprintln(os.Stderr, "\nOptions:")
 	flag.PrintDefaults()
 	os.Exit(0)
